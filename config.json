@@ -1,0 +1,12 @@
+{
+    "bot_name": "eexor mate",
+    "bot_prefix": "!",
+    "member_join_message" : "",
+    "guild_name": "testing",
+    "welcome_message": [
+        "Cześć {}, w imieniu Koła Naukowego eeXor chciałbym Cię cieplutko powitać na serwerze koła.",
+        "Najważniejsze rzeczy:\n1) Kardo93442 - szef\n2) Kanal algorytmów: AMPPZ",
+        "a) spotkania : co tydzień sobota 10-12 na kanale glosowym",
+        "b) Kanały tekstowe: info - informacje ogólne\n, materiały - linki do zadań\n, offtopic - inne info niekoniecznie zwiazane z algo\n"
+    ]
+}
